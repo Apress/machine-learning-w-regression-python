@@ -1,9 +1,9 @@
 # Apress Source Code
 
-This repository accompanies [*Machine Learning with Regression in Python*](https://rd.springer.com/video/10.1007/%isbn%) by Michael Keith (Apress, 2020.
+This repository accompanies [*Machine Learning with Regression in Python*](https://rd.springer.com/video/10.1007/978-1-4842-6583-3) by Michael Keith (Apress, 2020.
 
 [comment]: #cover
-![Cover image](%isbn%.jpg)
+![Cover image](9781484265833.jpg)
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
